@@ -22,5 +22,6 @@ You can add, edit, and delete tasks as needed.
 
 ## Image of the Website
 
-![2023-09-10](https://github.com/Alen-Varghese/tasktrack/assets/113363294/af2d2d2f-b2c6-4327-9f77-d894c62f0095)
+![image](https://github.com/Alen-Varghese/To-Do-List/assets/113363294/76cfed5e-071a-45a9-a9c9-87065e51a489)
+
 
